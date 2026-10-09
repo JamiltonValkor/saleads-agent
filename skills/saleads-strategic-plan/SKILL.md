@@ -13,6 +13,7 @@ Otras skills cubren partes del recorrido en detalle:
 - `saleads-business-setup`: negocio, web, ofertas, Meta y perfil.
 - `saleads-campaign-creatives`: imágenes y textos de cada campaña.
 - `saleads-launch-and-results`: lanzamiento, estado, métricas y pausa.
+- `saleads-temporada`: fechas especiales (Black Friday y otras del catálogo) con el plan especial; sus recursos no se usan con las tools de este flujo.
 
 Si esas skills no están cargadas, esta guía alcanza para completar el flujo. Para usuarios que empiezan desde cero, `saleads-primer-plan` resume el recorrido con menos preguntas.
 

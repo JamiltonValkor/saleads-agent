@@ -1,7 +1,7 @@
 {
   "name": "saleads",
   "displayName": "SaleADS",
-  "version": "0.1.0-dev.fb7c9d9362",
+  "version": "0.1.0-dev.a33d93bb2c",
   "description": "Crea y gestiona planes estratégicos de Meta Ads con SaleADS: negocio, estrategia de comunicación, plan de campañas, creativos, solicitud de lanzamiento (se confirma en SaleADS) y resultados. Incluye el conector MCP remoto de SaleADS y 13 skills: flujo completo, intenciones (primer plan, crear oferta, e-commerce, WhatsApp, servicios, temporada, diagnóstico, ayuda) y comportamiento consultivo.",
   "author": {
     "name": "SaleADS",

@@ -14,7 +14,7 @@ Esta extensión conecta Gemini CLI con el servidor MCP remoto de SaleADS (`salea
 | `saleads-producto-ecommerce` | Productos físicos y tiendas en línea: producto héroe, web vs WhatsApp, fotos fieles. |
 | `saleads-ventas-whatsapp` | Campañas a WhatsApp, capacidad de respuesta y guion de conversación. |
 | `saleads-servicios-profesionales` | Servicios y consultoría: oferta de entrada de bajo riesgo y confianza sin inventar pruebas. |
-| `saleads-temporada` | Fechas especiales con descuentos y fechas reales. |
+| `saleads-temporada` | Plan especial de fechas (Black Friday y demás fechas del catálogo): precios reales, cotización, textos del agente y links para preparar y activar en SaleADS. |
 | `saleads-diagnostico-resultados` | Leer resultados como consultor, sin ganadores causales. |
 | `saleads-ayuda` | Qué es SaleADS, cómo funciona, planes, requisitos de Meta y preguntas frecuentes. |
 
